@@ -11,3 +11,25 @@ Enter second number: 5
 10 / 5 = 2
 """
 # Your code here
+
+num1 = float(input("enter first nummber:"))
+num2 = float(input("enter second number:"))
+
+# calculations
+addition = num1 + num2
+subtraction = num1 - num2
+multiplication = num1 * num2
+division = num1 / num2  # Assumes num2 is not zero
+
+#the results
+print(f"{num1} + {num2} = {addition}")
+print(f"{num1} - {num2} = {subtraction}")
+print(f"{num1} * {num2} = {multiplication}")
+print(f"{num1} / {num2} = {division}")
+
+
+
+
+
+
+

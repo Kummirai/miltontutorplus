@@ -9,3 +9,12 @@ Enter width: 3
 The area is: 15
 """
 # Your code here
+# Ask the user for length and width
+length = float(input("enter length"))
+width = float(input("enter width"))
+
+# Calculate the area
+area = length* width
+
+# Display the result
+print(f"The area is: {area}")

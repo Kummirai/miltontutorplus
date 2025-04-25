@@ -13,3 +13,22 @@ Year: 2023
 Genre: Programming
 """
 # Your code here
+
+# 1. Create a dictionary for a book
+book = {
+    "title": "Python 101",
+    "author": "John Doe",
+    "year": 2021
+}
+
+# 2. Add a new key 'genre'
+book["genre"] = "Programming"
+
+# 3. Update the year
+book["year"] = 2023
+
+# 4. Print all book information
+print(f"Title: {book['title']}")
+print(f"Author: {book['author']}")
+print(f"Year: {book['year']}")
+print(f"Genre: {book['genre']}")

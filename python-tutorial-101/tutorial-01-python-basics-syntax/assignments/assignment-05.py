@@ -13,3 +13,15 @@ Lowercase: hello world
 Character count: 11
 """
 # Your code here
+
+#1. Ask for a sentence
+sentence = input("Enter a sentence: ")
+
+# 2. Print the sentence in uppercase
+print("Uppercase:", sentence.upper())
+
+# 3. Print the sentence in lowercase
+print("Lowercase:", sentence.lower())
+
+# 4. Print the number of characters (including spaces and punctuation)
+print("Character count:", len(sentence))
