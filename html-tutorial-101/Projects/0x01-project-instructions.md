@@ -1,5 +1,8 @@
 # HTML Portfolio Project
 
+## Watch this video to see how your website should be like
+https://www.loom.com/share/d7cba04d74f043d6b9970808e09b709c?sid=22d8854b-1836-46ea-be21-29dda718e3a6
+
 ## Overview
 Create a personal portfolio webpage using HTML that demonstrates your understanding of fundamental web development concepts. This single-page project will incorporate elements from all your previous HTML assignments while creating a cohesive personal website.
 
