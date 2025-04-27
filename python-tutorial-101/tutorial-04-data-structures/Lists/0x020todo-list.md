@@ -1,5 +1,8 @@
 # To-Do List Manager (Beginner Python Project)
 
+# Sample program
+https://www.loom.com/share/02e7d539dfa44d219416211badd9c8d3?sid=30f7f298-6de2-4d2c-badf-aa400ae5d6e8
+
 ## Project Description:
 You will build a **To-Do List Manager** program using Python lists. This program will allow users to add, remove, check, and view tasks on their to-do list. The goal is to practice core list operations such as appending, removing, checking membership, and displaying items, while building a simple interactive menu.
 
