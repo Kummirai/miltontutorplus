@@ -1,5 +1,8 @@
 # Grocery List Manager (Python Lists Project)
 
+# Sample Program
+https://www.loom.com/share/ba5a16b0ebb8495aba5c3f8ea851d678?sid=56372379-be1a-4d2d-b330-42343ac46548
+
 ## Project Description:
 You will build a **Grocery List Manager** program using Python lists. This program will allow users to add, remove, and manage items in their grocery list. The goal is to practice core list operations such as appending, removing, checking membership, and displaying items.
 
