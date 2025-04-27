@@ -1,10 +1,7 @@
 # Grocery List Manager - Beginner Version
 """
-
+You will build a Grocery List Manager program using Python lists. This program will allow users to add, remove, and manage items in their grocery list. The goal is to practice core list operations such as appending, removing, checking membership, and displaying items
 """
-
-
-
 grocery_list = []
 
 while True:
