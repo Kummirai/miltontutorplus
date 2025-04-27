@@ -1,6 +1,3 @@
-# To-Do List Manager (With Functions)
-
-```python
 # To-Do List Manager - Function Version
 todo_list = []
 
