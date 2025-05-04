@@ -16,12 +16,20 @@ while True:
     choice = input("\nChoose an option (1-5): ")
     
     # Add item
-    
+    if(choice == "1"):
+        add_item = input("Add item: ")
+        grocery_list.append(add_item)
+
     # Remove item
 
     # Check item
     
     # View list
+    if(choice == "4"):
+        count = 0
+        for items in grocery_list:
+            count= count + 1
+            print(f"{count}. {items}")
     
     # Exit
    
